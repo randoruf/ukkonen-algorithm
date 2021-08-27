@@ -2,7 +2,9 @@
 
 ## Quick Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WbLKFzqvacg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[String Algorithms - Ukkonen's algorithm by MiNiWolF](https://www.youtube.com/channel/UCsCm7a-qKob6gnsgENoE4zg)
+
+[Suffix Tree using Ukkonen's algorithm by Tushar Roy](https://www.youtube.com/watch?v=aPRqocoBsFQ) . 
 
 ## Implementations
 
@@ -12,14 +14,4 @@
 ## Set Up
 
 Install graphviz in Anaconda 3 for suffix tree visualization
-
- [suffix_tree_ukkonen.py](suffix_tree_ukkonen.py) 
-
- [suffix_tree_ukkonen_example_viz.py](suffix_tree_ukkonen_example_viz.py) 
-
-## Disclaimer
-
-This version is different from Tushar Roy's implementation [Suffix Tree using Ukkonen's algorithm](https://www.youtube.com/watch?v=aPRqocoBsFQ) . 
-
-There may be some unexpected bugs. 
 
