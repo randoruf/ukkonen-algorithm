@@ -1,5 +1,7 @@
 # Ukkonen Algorithm
 
+![image-20210828005352148](image-20210828005348029.png)
+
 ## Quick Overview
 
 [String Algorithms - Ukkonen's algorithm by MiNiWolF](https://www.youtube.com/channel/UCsCm7a-qKob6gnsgENoE4zg)
