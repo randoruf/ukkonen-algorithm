@@ -4,7 +4,7 @@
 
 ## Quick Overview
 
-[String Algorithms - Ukkonen's algorithm by MiNiWolF](https://www.youtube.com/channel/UCsCm7a-qKob6gnsgENoE4zg)
+[String Algorithms - Ukkonen's algorithm by MiNiWolF](https://www.youtube.com/watch?v=WbLKFzqvacg)
 
 [Suffix Tree using Ukkonen's algorithm by Tushar Roy](https://www.youtube.com/watch?v=aPRqocoBsFQ) . 
 
