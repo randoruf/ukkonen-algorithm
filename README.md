@@ -2,7 +2,7 @@
 
 ![image-20210828005352148](image-20210828005348029.png)
 
-This implementaion includes all optimization tricks memtioned in Algorithms on Strings, Trees, and Sequences by Dan Gusfield. 
+This implementaion includes all optimization tricks memtioned in *Algorithms on Strings, Trees, and Sequences by Dan Gusfield*. 
 
 ## Quick Overview
 
