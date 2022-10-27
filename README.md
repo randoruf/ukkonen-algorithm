@@ -6,6 +6,10 @@ This implementaion includes all optimization tricks memtioned in *Algorithms on 
 
 ## Quick Overview
 
+[llvm::SuffixTree Class Reference](https://www.llvm.org/doxygen/classllvm_1_1SuffixTree.html)
+
+[llvm::SuffixTree.h](https://www.llvm.org/doxygen/SuffixTree_8h_source.html)
+
 [String Algorithms - Ukkonen's algorithm by MiNiWolF](https://www.youtube.com/watch?v=WbLKFzqvacg)
 
 [Suffix Tree using Ukkonen's algorithm by Tushar Roy](https://www.youtube.com/watch?v=aPRqocoBsFQ) . 
